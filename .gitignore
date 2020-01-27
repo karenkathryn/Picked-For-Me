@@ -1,0 +1,10 @@
+  
+# Data files
+*.csv
+*.db
+*.sqlite
+*.xls
+*.xlsx
+*.zip
+*.tar.gz
+*csv.gz
