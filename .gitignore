@@ -1,6 +1,7 @@
   
 # Data files
 *.csv
+*.pkl
 *.db
 *.sqlite
 *.xls
