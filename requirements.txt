@@ -177,7 +177,7 @@ lucid==0.3.8
 lunardate==0.2.0
 lxml==4.2.6
 magenta==0.3.19
-Markdown==3.1.1
+Markdown==3.8.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 matplotlib-venn==0.11.5
